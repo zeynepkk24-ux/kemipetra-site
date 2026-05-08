@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" role="img" aria-label="Kemipetra">
+  <defs>
+    <clipPath id="gem2">
+      <polygon points="280,16 320,30 346,64 346,108 320,142 280,156 240,142 214,108 214,64 240,30"/>
+    </clipPath>
+  </defs>
+
+  <polygon points="280,86 280,16 240,30"       fill="#4a7ec8" clip-path="url(#gem2)"/>
+  <polygon points="280,86 240,30 214,64"        fill="#5a90d8" clip-path="url(#gem2)"/>
+  <polygon points="280,86 214,64 214,108"       fill="#6aa2e4" clip-path="url(#gem2)"/>
+  <polygon points="280,86 214,108 240,142"      fill="#7ab4ee" clip-path="url(#gem2)"/>
+  <polygon points="280,86 240,142 280,156"      fill="#88c0f4" clip-path="url(#gem2)"/>
+  <polygon points="280,86 280,156 320,142"      fill="#96ccf6" clip-path="url(#gem2)"/>
+  <polygon points="280,86 320,142 346,108"      fill="#aad6f8" clip-path="url(#gem2)"/>
+  <polygon points="280,86 346,108 346,64"       fill="#bce0fa" clip-path="url(#gem2)"/>
+  <polygon points="280,86 346,64 320,30"        fill="#d0eafc" clip-path="url(#gem2)"/>
+  <polygon points="280,86 320,30 280,16"        fill="#a8d2f4" clip-path="url(#gem2)"/>
+
+  <polygon points="280,52 312,74 300,116 260,116 248,74"
+           fill="rgba(255,255,255,0.22)" clip-path="url(#gem2)"/>
+
+  <polygon points="280,16 320,30 346,64 346,108 320,142 280,156 240,142 214,108 214,64 240,30"
+           fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+
+  <text
+    x="280" y="220"
+    font-family="'Century Gothic', 'Gill Sans MT', 'Trebuchet MS', 'Segoe UI', sans-serif"
+    font-weight="700"
+    font-size="74"
+    text-anchor="middle"
+    fill="#ffffff"
+    letter-spacing="10">KEMIPETRA</text>
+</svg>
