@@ -1,0 +1,232 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "K KEMIPETRA Ham madde & çözüm ortağı" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=e5]: K
+        - generic [ref=e6]:
+          - text: KEMIPETRA
+          - generic [ref=e7]: Ham madde & çözüm ortağı
+      - button "Menüyü aç/kapat" [ref=e8] [cursor=pointer]
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "Ana Sayfa" [ref=e12] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e13]:
+          - link "Hakkımızda" [ref=e14] [cursor=pointer]:
+            - /url: hakkimizda.html
+        - listitem [ref=e15]:
+          - link "Hizmetler" [ref=e16] [cursor=pointer]:
+            - /url: hizmetler.html
+        - listitem [ref=e17]:
+          - link "Sektörler" [ref=e18] [cursor=pointer]:
+            - /url: sektorler.html
+        - listitem [ref=e19]:
+          - link "Ürünler" [ref=e20] [cursor=pointer]:
+            - /url: urunler.html
+        - listitem [ref=e21]:
+          - link "Blog" [ref=e22] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e23]:
+          - link "English" [ref=e24] [cursor=pointer]:
+            - /url: en/index.html
+            - text: EN
+        - listitem [ref=e25]:
+          - link "İletişim" [ref=e26] [cursor=pointer]:
+            - /url: iletisim.html
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e30]: Endüstriyel & Kozmetik Kimyasallar
+      - heading "Üretim hattınız için güvenilir ham madde ve teknik çözüm" [level=1] [ref=e31]:
+        - text: Üretim hattınız için
+        - strong [ref=e32]: güvenilir ham madde
+        - text: ve teknik çözüm
+      - paragraph [ref=e33]: Boya ve yapı kimyasalları, petrol & gaz, su arıtma, gıda-ilaç ve kozmetik sektörlerine yönelik ham madde tedariki, regülasyon danışmanlığı ve formülasyon desteği tek noktada.
+      - generic [ref=e34]:
+        - link "Ürün kataloğunu incele" [ref=e35] [cursor=pointer]:
+          - /url: urunler.html
+        - link "Harika hizmetlerimiz" [ref=e36] [cursor=pointer]:
+          - /url: hizmetler.html
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]: "5"
+        - generic [ref=e40]: Sektör
+      - generic [ref=e41]:
+        - generic [ref=e42]: 200+
+        - generic [ref=e43]: Ham madde
+      - generic [ref=e44]:
+        - generic [ref=e45]: 30+
+        - generic [ref=e46]: Tedarikçi ülke
+      - generic [ref=e47]:
+        - generic [ref=e48]: 7/24
+        - generic [ref=e49]: Teknik destek
+  - generic [ref=e51]:
+    - generic [ref=e52]:
+      - generic [ref=e53]: Hizmetlerimiz
+      - heading "Tedarikten ruhsata, formülden lojistiğe" [level=2] [ref=e54]
+      - paragraph [ref=e55]: Sadece kimyasal göndermiyoruz; üretim sürecinizin başından sonuna kadar yanınızda olacak teknik bir ortak gibi çalışıyoruz.
+    - generic [ref=e56]:
+      - article [ref=e57]:
+        - generic [ref=e58]: ⚙
+        - heading "Tedarik & Lojistik" [level=3] [ref=e59]
+        - paragraph [ref=e60]: Geniş üretici ağıyla rekabetçi fiyat, sürekli stok ve zamanında teslimat. Küçük denemelerden konteyner sevkiyatına kadar esnek miktar.
+        - link "Detay →" [ref=e61] [cursor=pointer]:
+          - /url: hizmetler.html#tedarik
+      - article [ref=e62]:
+        - generic [ref=e63]: 📋
+        - heading "Regülasyon & Uyum" [level=3] [ref=e64]
+        - paragraph [ref=e65]: SDS, COA, REACH, GMP, kozmetik bildirim ve gıda-ilaç regülasyonları konusunda dokümantasyon ve uyum desteği.
+        - link "Detay →" [ref=e66] [cursor=pointer]:
+          - /url: hizmetler.html#regulasyon
+      - article [ref=e67]:
+        - generic [ref=e68]: 🧪
+        - heading "Teknik Çözümler" [level=3] [ref=e69]
+        - paragraph [ref=e70]: Formülasyon önerileri, alternatif ham madde araştırması, proses iyileştirme ve uygulama testleri için teknik ekip desteği.
+        - link "Detay →" [ref=e71] [cursor=pointer]:
+          - /url: hizmetler.html#teknik
+  - generic [ref=e73]:
+    - generic [ref=e74]:
+      - generic [ref=e75]: Sektörler
+      - heading "Hizmet verdiğimiz alanlar" [level=2] [ref=e76]
+      - paragraph [ref=e77]: Endüstriyel uygulamalardan tüketici ürünlerine geniş bir yelpazede deneyim.
+    - generic [ref=e78]:
+      - article [ref=e79]:
+        - generic [ref=e80]: Boya ve Yapı Kimyasalları
+        - generic [ref=e81]:
+          - heading "Boya ve Yapı Kimyasalları" [level=3] [ref=e82]
+          - paragraph [ref=e83]: Reçineler, pigmentler, dolgu maddeleri, katkılar ve solventler.
+          - link "İncele →" [ref=e84] [cursor=pointer]:
+            - /url: sektorler.html#kaplama
+      - article [ref=e85]:
+        - generic [ref=e86]: Petrol & Gaz
+        - generic [ref=e87]:
+          - heading "Petrol & Gaz" [level=3] [ref=e88]
+          - paragraph [ref=e89]: Sondaj, üretim ve rafineri kimyasalları, korozyon inhibitörleri.
+          - link "İncele →" [ref=e90] [cursor=pointer]:
+            - /url: sektorler.html#petrol
+      - article [ref=e91]:
+        - generic [ref=e92]: Su Arıtma
+        - generic [ref=e93]:
+          - heading "Su Arıtma" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Koagülant, flokülant, antiskalan ve dezenfeksiyon kimyasalları.
+          - link "İncele →" [ref=e96] [cursor=pointer]:
+            - /url: sektorler.html#su
+      - article [ref=e97]:
+        - generic [ref=e98]: Gıda & İlaç
+        - generic [ref=e99]:
+          - heading "Gıda & İlaç" [level=3] [ref=e100]
+          - paragraph [ref=e101]: Gıda katkı maddeleri, eksipiyanlar, vitaminler ve farmasötik aroma kimyasalları.
+          - link "İncele →" [ref=e102] [cursor=pointer]:
+            - /url: sektorler.html#gida
+      - article [ref=e103]:
+        - generic [ref=e104]: Kozmetik Ham Maddeleri
+        - generic [ref=e105]:
+          - heading "Kozmetik Ham Maddeleri" [level=3] [ref=e106]
+          - paragraph [ref=e107]: Yüzey aktifler, emülgatörler, aktif bileşenler, koruyucular ve doğal yağlar.
+          - link "İncele →" [ref=e108] [cursor=pointer]:
+            - /url: sektorler.html#kozmetik
+  - generic [ref=e111]:
+    - generic [ref=e112]: Neden Kemipetra?
+    - heading "Sadece tedarikçi değil, çözüm ortağı" [level=2] [ref=e113]
+    - paragraph [ref=e114]: "Üretici firmaların ham madde tedarikinden çok daha fazlasına ihtiyacı var: doğru spesifikasyon, sürekli kalite, regülasyon belgeleri ve formülasyon desteği. Kemipetra, bu süreci tek bir hat üzerinden yönetmenizi sağlar."
+    - list [ref=e115]:
+      - listitem [ref=e116]:
+        - generic [ref=e117]: ✓
+        - generic [ref=e118]:
+          - strong [ref=e119]: "Stoklu çalışma:"
+          - text: Sık kullanılan ham maddelerde Türkiye stoku ile hızlı teslimat.
+      - listitem [ref=e120]:
+        - generic [ref=e121]: ✓
+        - generic [ref=e122]:
+          - strong [ref=e123]: "Tam dokümantasyon:"
+          - text: SDS, COA, teknik veri sayfası, helal/koşer/REACH bildirimleri.
+      - listitem [ref=e124]:
+        - generic [ref=e125]: ✓
+        - generic [ref=e126]:
+          - strong [ref=e127]: "Formülasyon danışmanlığı:"
+          - text: Alternatif ham madde, maliyet düşürme ve proses iyileştirme önerileri.
+      - listitem [ref=e128]:
+        - generic [ref=e129]: ✓
+        - generic [ref=e130]:
+          - strong [ref=e131]: "Numune politikası:"
+          - text: Üretim öncesi denemeler için numune ve teknik destek.
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e137]: 200+
+      - generic [ref=e138]: Aktif ham madde
+    - generic [ref=e139]:
+      - generic [ref=e140]: "5"
+      - generic [ref=e141]: Sektör
+    - generic [ref=e142]:
+      - generic [ref=e143]: 30+
+      - generic [ref=e144]: Tedarikçi ülke
+    - generic [ref=e145]:
+      - generic [ref=e146]: 100%
+      - generic [ref=e147]: Belgeli ürün
+  - generic [ref=e150]:
+    - generic [ref=e151]:
+      - heading "Hangi ham maddeyi arıyorsunuz?" [level=2] [ref=e152]
+      - paragraph [ref=e153]: Spesifikasyon, miktar ve uygulamanızı paylaşın; en uygun ürünü ve fiyatı 24 saat içinde iletelim.
+    - link "Teklif iste" [ref=e154] [cursor=pointer]:
+      - /url: iletisim.html
+  - contentinfo [ref=e155]:
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - generic [ref=e160]: K
+            - generic [ref=e161]:
+              - text: KEMIPETRA
+              - generic [ref=e162]: Ham madde & çözüm ortağı
+          - paragraph [ref=e163]: Endüstriyel ve kozmetik kimyasallarda tedarik, regülasyon ve teknik çözüm hizmetleri.
+        - generic [ref=e164]:
+          - heading "Şirket" [level=4] [ref=e165]
+          - list [ref=e166]:
+            - listitem [ref=e167]:
+              - link "Hakkımızda" [ref=e168] [cursor=pointer]:
+                - /url: hakkimizda.html
+            - listitem [ref=e169]:
+              - link "Hizmetler" [ref=e170] [cursor=pointer]:
+                - /url: hizmetler.html
+            - listitem [ref=e171]:
+              - link "Blog" [ref=e172] [cursor=pointer]:
+                - /url: blog.html
+            - listitem [ref=e173]:
+              - link "İletişim" [ref=e174] [cursor=pointer]:
+                - /url: iletisim.html
+        - generic [ref=e175]:
+          - heading "Sektörler" [level=4] [ref=e176]
+          - list [ref=e177]:
+            - listitem [ref=e178]:
+              - link "Boya ve Yapı Kimyasalları" [ref=e179] [cursor=pointer]:
+                - /url: sektorler.html#kaplama
+            - listitem [ref=e180]:
+              - link "Petrol & Gaz" [ref=e181] [cursor=pointer]:
+                - /url: sektorler.html#petrol
+            - listitem [ref=e182]:
+              - link "Su Arıtma" [ref=e183] [cursor=pointer]:
+                - /url: sektorler.html#su
+            - listitem [ref=e184]:
+              - link "Gıda & İlaç" [ref=e185] [cursor=pointer]:
+                - /url: sektorler.html#gida
+            - listitem [ref=e186]:
+              - link "Kozmetik Ham Maddeleri" [ref=e187] [cursor=pointer]:
+                - /url: sektorler.html#kozmetik
+        - generic [ref=e188]:
+          - heading "İletişim" [level=4] [ref=e189]
+          - list [ref=e190]:
+            - listitem [ref=e191]:
+              - text: "Aydınlı Mah. Umutlu Sok No: 20/2"
+              - text: Tuzla / İstanbul
+            - listitem [ref=e192]:
+              - link "+90 531 912 92 42" [ref=e193] [cursor=pointer]:
+                - /url: tel:+905319129242
+            - listitem [ref=e194]:
+              - link "sales@kemipetra.com" [ref=e195] [cursor=pointer]:
+                - /url: mailto:sales@kemipetra.com
+            - listitem [ref=e196]:
+              - link "İletişim sayfası" [ref=e197] [cursor=pointer]:
+                - /url: iletisim.html
+      - generic [ref=e198]:
+        - generic [ref=e199]: © 2026 Kemipetra. Tüm hakları saklıdır.
+        - generic [ref=e200]: İstanbul, Türkiye
